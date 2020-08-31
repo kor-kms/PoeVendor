@@ -1,0 +1,227 @@
+p{"name":"왕의 길","type":"예언"}}
+m{"name":"카옴의 표식(Kaom's Sign)","type":"산호 반지"}
+r{"name":"카옴의 길(Kaom's Way)","type":"산호 반지"}
+
+p{"name":"카루이의 봉기","type":"예언"}}
+m{"name":"카루이의 수호(Karui Ward)","type":"비취 목걸이"}
+r{"name":"카루이의 돌진(Karui Charge)","type":"비취 목걸이"}
+
+p{"name":"왕과 가시나무","type":"예언"}}
+m{"name":"가시나무 갑옷(Bramblejack)","type":"판금 조끼"}
+r{"name":"가시나무 벽(Wall of Brambles)","type":"판금 조끼"}
+
+p{"name":"에너지의 흐름","type":"예언"}}
+m{"name":"샤브론의 보폭(Shavronne's Pace)","type":"학자 장화"}
+r{"name":"샤브론의 책략(Shavronne's Gambit)","type":"학자 장화"}
+
+p{"name":"활시위의 가락","type":"예언"}
+m{"name":"죽음의 하프(Death's Harp)","type":"죽음의 활"}
+r{"name":"죽음의 작품(Death's Opus)","type":"죽음의 활"}
+
+p{"name":"공허로부터","type":"예언"}
+m{"name":"검은 심장(Blackheart)","type":"철제 반지"}
+r{"name":"공허의 심장(Voidheart)","type":"철제 반지"}
+
+p{"name":"무거운 타격","type":"예언"}
+m{"name":"바위 화살촉(Craghead)","type":"톱니 화살통"}
+r{"name":"바위 폭포(Cragfall)","type":"톱니 화살통"}
+
+p{"name":"화염과 유황","type":"예언"}
+m{"name":"검은 섬광(Blackgleam)","type":"불화살통"}
+r{"name":"봉화(The Signal Fire)","type":"불화살통"}
+
+p{"name":"거짓 우상의 숲","type":"예언"}
+m{"name":"아라쿠 티키(Araku Tiki)","type":"산호 목걸이"}
+r{"name":"나마후 티키(Ngamahu Tiki)","type":"산호 목걸이"}
+
+p{"name":"화염과 얼음","type":"예언"}
+m{"name":"흐림소로우(Hrimsorrow)","type":"염소가죽 장갑"}
+r{"name":"흐림번(Hrimburn)","type":"염소가죽 장갑"}
+
+p{"name":"쾌락과 고통","type":"예언"}
+m{"name":"가시 왕관(Crown of Thorns)","type":"덩굴 관"}
+r{"name":"순교자의 왕관(Martyr's Crown)","type":"덩굴 관"}
+
+p{"name":"돌아온 핏빛 꽃송이","type":"예언"}
+m{"name":"에조미어의 면갑(Ezomyte Peak)","type":"철제 투구"}
+r{"name":"에조미어의 방호(Ezomyte Hold)","type":"철제 투구"}
+
+p{"name":"죽어가는 함성","type":"예언"}
+m{"name":"죽음의 종(Deidbell)","type":"도금 샐릿"}
+r{"name":"죽음의 괘종(Deidbellow)","type":"도금 샐릿"}
+
+p{"name":"공포의입","type":"예언"}
+m{"name":"공포의 성배(Chalice of Horrors)","type":"전쟁용 버클러"}
+r{"name":"공포에 대한 갈증","type":"전쟁용 버클러"}
+
+p{"name":"자연의 회복력","type":"예언"}
+m{"name":"생기의 잎사귀(Springleaf)","type":"널빤지 연모양 방패"}
+r{"name":"참나무(The Oak)","type":"널빤지 연모양 방패"}
+
+p{"name":"꺼진 불꽃","type":"예언"}
+m{"name":"붙잡은 냉기(Kaltenhalt)","type":"도색된 버클러"}
+r{"name":"붙잡은 영혼(Kaltensoul)","type":"도색된 버클러"}
+
+p{"name":"최상위 포식자","type":"예언"}
+m{"name":"울부짖는 독수리(The Screaming Eagle)","type":"비취 손도끼"}
+r{"name":"그리폰(The Gryphon)","type":"비취 손도끼"}
+
+p{"name":"잘린 팔다리","type":"예언"}
+m{"name":"사지 분할기(Limbsplit)","type":"벌목스플리터"}
+r{"name":"소각로(The Cauteriser)","type":"벌목스플리터"}
+
+p{"name":"고대의 파멸","type":"예언"}
+m{"name":"죽음의 깃(Doomfletch)","type":"왕실 활"}
+r{"name":"죽음의 깃의 분광기(Doomfletch's Prism)","type":"왕실 활"}
+
+p{"name":"은빛 나무","type":"예언"}
+m{"name":"은빛 가지(Silverbranch)","type":"조잡한 활"}
+r{"name":"은빛 나뭇가지(Silverbough)","type":"조잡한 활"}
+
+p{"name":"노예의 심장","type":"예언"}
+m{"name":"태풍 구름(Storm Cloud)","type":"장궁"}
+r{"name":"폭풍(The Tempest)","type":"장궁"}
+
+p{"name":"겨울의 구슬픈 선율","type":"예언"}
+m{"name":"흐림노르의 찬가(Hrimnor's Hymn)","type":"대형 양손 망치"}
+r{"name":"흐림노르의 만가(Hrimnor's Dirge)","type":"대형 양손 망치}
+
+p{"name":"증폭된 힘","type":"예언"}
+m{"name":"울림의 막대(Reverberation Rod)","type":"나선형 마법봉"}
+r{"name":"증폭 막대(Amplification Rod)","type":"나선형 마법봉"}
+
+p{"name":"시작과 끝","type":"예언"}
+m{"name":"영역 형성자(Realmshaper)","type":"철제 지팡이"}
+r{"name":"종결자(Realm Ender)","type":"철제 지팡이"}
+
+p{"name":"오판한 여왕","type":"예언"}
+m{"name":"여왕의 법령(Queen's Decree)","type":"화려한 검"}
+r{"name":"여왕의 탈주(Queen's Escape)","type":"화려한 검"}
+
+p{"name":"빛의 종말","type":"예언"}
+m{"name":"얼음 묘지(Icetomb)","type":"격자형 고리 갑옷"}
+r{"name":"수정 금고(Crystal Vault)","type":"격자형 고리 갑옷"}
+
+p{"name":"탐욕의 어리석음","type":"예언"}
+m{"name":"기적의 발판(Wondertrap)","type":"벨벳 슬리퍼"}
+r{"name":"탐욕의 발판(Greedtrap)","type":"벨벳 슬리퍼"}
+
+p{"name":"마지막 야생인","type":"예언"}
+m{"name":"활력의 겉옷(Briskwrap)","type":"끈을 멘 가죽 갑옷"}
+r{"name":"황야의 겉옷(Wildwrap)","type":"끈을 멘 가죽 갑옷"}
+
+p{"name":"태양의 응징","type":"예언"}
+m{"name":"태양을 보는 춤(Sundance)","type":"버클 장화"}
+r{"name":"태양의 원한(Sunspite)","type":"버클 장화"}
+
+p{"name":"검은 혓바닥의 비명","type":"예언"}
+m{"name":"바람의 괴성(Windscream)","type":"강화 각반"}
+r{"name":"바람의 비명(Windshriek)","type":"강화 각반"}
+
+p{"name":"황혼의 고통","type":"예언"}
+m{"name":"황혼의 끝자락(Dusktoe)","type":"철제 비늘 장화"}
+r{"name":"황혼의 황폐(Duskblight)","type":"철제 비늘 장화"}
+
+p{"name":"심술궂은 마녀","type":"예언"}
+m{"name":"도이드리의 임기(Doedre's Tenure)","type":"벨벳 장갑"}
+r{"name":"도이드리의 악의(Doedre's Malevolence)","type":"벨벳 장갑"}
+
+p{"name":"얼음과 화염의 환영","type":"예언"}
+m{"name":"열기와 오한(Heatshiver)","type":"가죽 두건"}
+r{"name":"서리와 화염(Frostferno)","type":"가죽 두건"}
+
+p{"name":"시간의 균열","type":"예언"}
+m{"name":"시간의 속박(Timeclasp)","type":"월장석 반지"}
+r{"name":"시간 왜곡(Timetwist)","type":"월장석 반지"}
+
+p{"name":"여왕의 희생","type":"예언"}
+m{"name":"앗지리의 거울(Atziri's Mirror)","type":"금색 버클러"}
+r{"name":"앗지리의 성찰(Atziri's Reflection)","type":"금색 버클러"}
+
+p{"name":"제국의 몰락","type":"예언"}
+m{"name":"퀘촐리(Quecholli)","type":"삐죽삐죽한 대형 망치"}
+r{"name":"판케찰리스틀리(Panquetzaliztli)","type":"삐죽삐죽한 대형 망치"}
+
+p{"name":"탑에 갇히다","type":"예언"}
+m{"name":"늪 가지(Fencoil)","type":"울퉁불퉁한 나뭇가지"}
+r{"name":"늪 가지(Mirebough)","type":"울퉁불퉁한 나뭇가지"}
+
+p{"name":"태풍의 첨탑","type":"예언"}
+m{"name":"태풍의 눈(The Stormheart),"type":"왕실 지팡이"}
+r{"name":"태풍의 장벽(The Stormwall)","type":"왕실 지팡이"}
+
+p{"name":"어둠의 본능","type":"예언"}
+m{"name":"여우 그림자(Foxshade)","type":"거친 가죽 갑옷"}
+r{"name":"여우의 행운(Fox's Fortune)","type":"거친 가죽 갑옷"}
+
+p{"name":"세케마의 노래","type":"예언"}
+m{"name":"아세나스의 징표(Asenath's Mark)","type":"철제 관"}
+r{"name":"아세나스의 노래(Asenath's Chant)","type":"철제 관"}
+
+p{"name":"깨어난 악몽","type":"예언"}
+m{"name":"말라카이의 위장막(Malachai's Simula)","type":"철 가면"}
+r{"name":"말라카이의 각성(Malachai's Awakening)","type":"철 가면"}
+
+p{"name":"맹목적인 믿음","type":"예언"}
+m{"name":"이그노몬(The Ignomon)","type":"황금 목걸이"}
+r{"name":"에피곤(The Effigon)","type":"황금 목걸이"}
+
+p{"name":"북쪽의 위대한 자","type":"예언"}
+m{"name":"거물(The Magnate)","type":"징 박힌 허리띠"}
+r{"name":"전술가(The Tactician)","type":"징 박힌 허리띠"}
+
+p{"name":"북쪽의 위대한 지도자","type":"예언"}
+m{"name":"거물(The Magnate)","type":"징 박힌 허리띠"}
+r{"name":"유목민(The Nomad)","type":"징 박힌 허리띠"}
+
+p{"name":"냉혈의 광분","type":"예언"}
+m{"name":"끓는 피(Bloodboil)","type":"산호 반지"}
+r{"name":"겨울 매듭(Winterweave)","type":"산호 반지"}
+
+p{"name":"불명예스러운 죽음","type":"예언"}
+m{"name":"하이리의 이빨(Hyrri's Bite)","type":"상어이빨 화살통"}
+r{"name":"하이리의 소멸(Hyrri's Demise)","type":"상어이빨 화살통"}
+
+p{"name":"불타는 공포","type":"예언"}
+m{"name":"접근하는 공포(Dreadarc)","type":"가로날도끼"}
+r{"name":"밀려드는 공포(Dreadsurge)","type":"가로날도끼"}
+
+p{"name":"진홍색 빛깔","type":"예언"}
+m{"name":"유혈 관통(Goredrill)","type":"무두질용 단도"}
+r{"name":"핏빛 장난(Sanguine Gambol)","type":"무두질용 단도"}
+
+p{"name":"검은 헌신","type":"예언"}
+m{"name":"조프리의 세례(Geofri's Baptism)","type":"황동 대형 망치"}
+r{"name":"조프리의 헌신(Geofri's Devotion)","type":"황동 대형 망치"}
+
+p{"name":"차가운 탐욕","type":"예언"}
+m{"name":"카메리아의 대형 망치(Cameria's Maul)","type":"의사봉"}
+r{"name":"카메리아의 탐욕(Cameria's Avarice)","type":"의사봉"}
+
+p{"name":"콩포의 로아","type":"예언"}
+m{"name":"붉은 부리(Redbeak)","type":"녹슨 검"}
+r{"name":"공포의 부리(Dreadbeak)","type":"녹슨 검"}
+
+p{"name":"강철의 춤사위","type":"예언"}
+m{"name":"춤추는 수도승(The Dancing Dervish)","type":"강탈자 검"}
+r{"name":"춤추는 한 쌍(The Dancing Duo)","type":"강탈자 검"}
+
+p{"name":"눈부신 빛","type":"예언"}
+m{"name":"솔라리스의 쇠퇴(Eclipse Solaris)","type":"수정 마법봉"}
+r{"name":"솔라리스의 광환(Corona Solaris)","type":"수정 마법봉"}
+
+p{"name":"전투에 단련된 자","type":"예언"}
+m{"name":"철 심장(Iron Heart)","type":"십자군 판금 갑옷"}
+r{"name":"철의 요새(The Iron Fortress)","type":"십자군 판금 갑옷"}
+
+p{"name":"신념의 발굴","type":"예언"}
+m{"name":"초버 차버(Chober Chaber)","type":"대형 나무 망치"}
+r{"name":"차버 케른(Chaber Cairn)","type":"대형 나무 망치"}
+
+p{"name":"스승","type":"예언"}
+m{"name":"마투아 투푸나(Matua Tupuna)","type":"변색된 영혼 방패"}
+r{"name":"와카투투키 오 마투아(Whakatutuki o Matua)","type":"변색된 영혼 방패"}
+
+p{"name":"주교의 유산","type":"예언"}
+m{"name":"조프리의 문양(Geofri's Crest)","type":"대형 왕관"}
+r{"name":"조프리의 유산(Geofri's Legacy)","type":"대형 왕관"}

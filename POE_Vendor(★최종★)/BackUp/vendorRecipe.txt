@@ -1,0 +1,104 @@
+m{"name":"태고의 고귀(Primordial Eminence)","type":"진청록색 주얼"}
+m{"name":"태고의 조화(Primordial Harmony)","type":"코발트색 주얼"}
+m{"name":"태고의 완력(Primordial Might)","type":"진홍색 주얼"}
+r{"name":"생명의 돌(The Anima Stone)","type":"분광 주얼"}
+
+m{"name":"그렐나무 자루(Grelwood Shank)","type":"영원의 검"}
+m{"name":"벨팀버 검(Beltimber Blade)","type":"영원의 검"}
+연결의 오브
+r{"name":"아보릭스(Arborix)","type":"암살자 활"}
+
+m{"name":"솔라리스의 그늘(Shade of Solaris)","type":"현자 마법봉"}
+m{"name":"루나리스의 빛(Light of Lunaris)","type":"방울 영혼 방패"}
+연결의 오브
+r{"name":"황혼의 아침(Duskdawn)","type":"마엘스트롬 지팡이"}
+
+m{"name":"속박된 여신(The Goddess Bound)","type":"고래뼈 레이피어"}
+고상한 검 20% 퀄리티
+연소 보조 스킬젬 최소 1% 퀄리티 이상
+연결의 오브
+r{"name":"경멸받는 여신(The Goddess Scorned)","type":"고상한 검"}
+
+일반 상어이빨 화살통
+레어 오닉스 목걸이
+화살비 스킬젬 최소 1% 퀄리티
+기회의 오브
+r{"name":"하이리의 이빨(Hyrri's Bite)","type":"상어이빨 화살통"}
+
+m{"name":"영혼 수확자(Soul Ripper)","type":"석영 플라스크"}
+m{"name":"심장 분쇄기(Heartbreaker)","type":"왕실 양날 단검"}
+연결의 오브
+r{"name":"실세(Kingmaker)","type":"절대군주 도끼"}
+
+유니크 링 60개
+r{"name":"지식의 매듭(Loreweave)","type":"고상한 고리 갑옷"}
+
+m{"name":"지지 않는 태양(Invictus Solaris)","type":"집정관의 연모양 방패"}
+m{"name":"불굴의 달(Vix Lunaris)","type":"선홍색 원형 방패"}
+연결의 오브
+r{"name":"커다란 일식(Magna Eclipsis)","type":"최고의 거대 방패"}
+
+m{"name":"연회의 속박(Feastbind)","type":"소박한 띠"}
+m{"name":"기근의 속박(Faminebind)","type":"소박한 띠"}
+연결의 오브
+r{"name":"레치(The Retch)","type":"소박한 띠"}
+
+유니크 루비반지
+아무 희귀도의 오닉스 목걸이 
+번개 차원 이동 20레벨 타락된 스킬젬
+r{"name":"레이클라스트의 별(Star of Wraeclast)","type":"루비 목걸이"}
+
+m{"name":"베렉의 손아귀(Berek's Grip)","type":"쌍보석 반지"}
+m{"name":"베렉의 길(Berek's Pass)","type":"쌍보석 반지"}
+m{"name":"베렉의 유예(Berek's Respite)","type":"쌍보석 반지"}
+r{"name":"조련(The Taming)","type":"분광 반지"}
+
+m{"name":"북쪽의 아그네로드(Agnerod North)","type":"제국 지팡이"}
+m{"name":"남쪽의 아그네로드(Agnerod South)","type":"제국 지팡이"}
+m{"name":"동쪽의 아그네로드(Agnerod East)","type":"제국 지팡이"}
+m{"name":"서쪽의 아그네로드(Agnerod West)","type":"제국 지팡이"}
+r{"name":"빙타 광장(The Vinktar Square)","type":"안뜰 지도(Courtyard Map)"}
+
+m{"name":"아펩의 수면(Apep's Slumber)","type":"고대의 영혼 방패"}
+m{"type":"각성의 시약"}
+r{"name":"아펩의 패권(Apep's Supremacy)","type":"바알 영혼 방패"}
+
+m{"name":"겁쟁이의 사슬(Coward's Chains)","type":"사슬 허리띠"}
+m{"type":"결과의 시약"}
+r{"name":"겁쟁이의 유물(Coward's Legacy)","type":"사슬 허리띠"}
+
+m{"name":"영혼 흡수자의 가면(Mask of the Spirit Drinker)","type":"십자군 투구"}
+m{"type":"소환의 시약"}
+r{"name":"꿰맨 악마의 가면(Mask of the Stitched Demon)","type":"재판관 왕관"}
+
+m{"name":"바알의 사연(Story of the Vaal)","type":"바리사이트 검"}
+m{"type":"운명의 시약"}
+r{"name":"바알의 운명(Fate of the Vaal)","type":"원석 검"}
+
+m{"name":"영혼 포획자(Soul Catcher)","type":"석영 플라스크"}
+m{"type":"유령의 시약"}
+r{"name":"영혼 수확자(Soul Ripper)","type":"석영 플라스크"}
+
+m{"name":"제물의 춤(Dance of the Offered)","type":"섀클 장화"}
+m{"type":"의식의 시약"}
+r{"name":"오메이오칸(Omeyocan)","type":"육욕의 장화"}
+
+m{"name":"건축가의 손길(Architect's Hand)","type":"끈 미트"}
+m{"type":"지배의 시약"}
+r{"name":"노예 감독관의 손길(Slavedriver's Hand)","type":"매복 미트"}
+
+m{"name":"조절된 육체(Tempered Flesh)","type":"진홍색 주얼"}
+m{"type":"초월의 시약"}
+r{"name":"초월한 육체(Transcendent Flesh)","type":"진홍색 주얼"}
+
+m{"name":"조절된 정신(Tempered Spirit)","type":"진청록색 주얼"}
+m{"type":"초월의 시약"}
+r{"name":"초월한 정신(Transcendent Spirit)","type":"진청록색 주얼"}
+
+m{"name":"조절된 마음(Tempered Mind)","type":"코발트색 주얼"}
+m{"type":"초월의 시약"}
+r{"name":"초월한 마음(Transcendent Mind)","type":"코발트색 주얼"}
+
+m{"name":"희생의 심장(Sacrificial Heart)","type":"파우아 목걸이"}
+m{"type":"희생의 시약"}
+r{"name":"제르피의 심장(Zerphi's Heart)","type":"파우아 목걸이"}
